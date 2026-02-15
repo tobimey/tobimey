@@ -1,8 +1,9 @@
 # Hello World!, I'm Tobi, a Next.js dev from Berlin
+
 👨🏼‍💻 find me also [here](https://tobimey.dev)<br> 👨🏼‍🚀 working as a full stack web developer since 2022 <br>🎬 content creation at [Tobi Mey](https://www.youtube.com/@tobi-mey)
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 Lets hold it simple, there is much more but these tools are what I use daily: 
 
