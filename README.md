@@ -1,14 +1,14 @@
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-👨🏼‍💻 find me also [here](https://tobimey.de)<br> working as a full stack web developer since 2022 <br>🎬 educational content creation on my yt channel: [Tobi Mey](https://www.youtube.com/@tobi-mey)
+# Hello World!, I'm Tobi, a Next.js dev from Berlin👋🏼:
+👨🏼‍💻 find me also [here](https://tobimey.dev)<br> working as a full stack web developer since 2022 <br>🎬 educational content creation on my yt channel: [Tobi Mey](https://www.youtube.com/@tobi-mey)
 
 
 # 💻 Tech Stack:
 
 Lets hold it simple, there is much more but these tools are what I use daily: 
 
-- lang: Js/Ts
+- lang: Ts
 - framework: Next.js
-- styling: TailwindCSS
+- styling: TailwindCSS & Shadcn
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
